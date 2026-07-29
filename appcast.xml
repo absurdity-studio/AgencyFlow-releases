@@ -3,13 +3,25 @@
     <channel>
         <title>AgencyFlow</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Wed, 29 Jul 2026 19:57:27 -0400</pubDate>
+            <sparkle:version>2002</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads/AgencyFlow-0.2.2.zip" length="1387057" type="application/octet-stream" sparkle:edSignature="esG/GQXU8OOH/RyKkRj0CnAdGHf/oCJdx325fZuxSq0sT7A9W8Hn/DZmR2kXdx7yPz/pxu6lnHlEYDSqQKUqBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads/AgencyFlow2002-32.delta" sparkle:deltaFrom="32" length="284206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IKsdGv5OvGyvARxZU534DwUE8abwDpHZNUyo1T/Cqtaklin3eIQm+quOloMdCvevovD5WZEXbQH1INchlcYKAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Mon, 27 Jul 2026 20:10:08 -0400</pubDate>
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/thedesigner97/agencyflow-releases/main/downloads/AgencyFlow-0.2.0.zip" length="1400670" type="application/octet-stream" sparkle:edSignature="YJNKJDswxQrAU9c8uI1CtPKkkio5Heu/iM0AJ0/sK4JwIhkd6OS8DoxIghJUC9iJ2HRbRsBwIeoxffwOA8VUAw=="/>
+            <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads/AgencyFlow-0.2.0.zip" length="1400670" type="application/octet-stream" sparkle:edSignature="YJNKJDswxQrAU9c8uI1CtPKkkio5Heu/iM0AJ0/sK4JwIhkd6OS8DoxIghJUC9iJ2HRbRsBwIeoxffwOA8VUAw=="/>
         </item>
     </channel>
 </rss>
