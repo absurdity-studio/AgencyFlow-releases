@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AgencyFlow</title>
+        <item>
+            <title>0.2.2</title>
+            <pubDate>Wed, 29 Jul 2026 19:57:27 -0400</pubDate>
+            <sparkle:version>2002</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads/AgencyFlow-0.2.2.zip" length="1387057" type="application/octet-stream" sparkle:edSignature="esG/GQXU8OOH/RyKkRj0CnAdGHf/oCJdx325fZuxSq0sT7A9W8Hn/DZmR2kXdx7yPz/pxu6lnHlEYDSqQKUqBg=="/>
+        </item>
+    </channel>
+</rss>
