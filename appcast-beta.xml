@@ -3,6 +3,18 @@
     <channel>
         <title>AgencyFlow Beta</title>
         <item>
+            <title>0.2.8</title>
+            <pubDate>Mon, 10 Aug 2026 20:47:43 -0400</pubDate>
+            <sparkle:version>2008</sparkle:version>
+            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow-0.2.8.zip" length="4682566" type="application/octet-stream" sparkle:edSignature="GjdKcqzZVh4iNaIG2DpzJfRI1FNiI306eyM93gQ48mBk5/hNGdSSXaPt133ZLCUWoe/Bx6aRDMucYYK3LfUQCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2008-2007.delta" sparkle:deltaFrom="2007" length="574810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ElDg9405edWUyBCVG1Oytl2huk7MVxw0gMviVjzxtyN4LRLT5nKO2WAHjKgRC0aZMNnOPrT/llBRoGgQnKDdBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.7</title>
             <pubDate>Mon, 10 Aug 2026 16:20:29 -0400</pubDate>
             <sparkle:version>2007</sparkle:version>
