@@ -3,6 +3,22 @@
     <channel>
         <title>AgencyFlow Beta</title>
         <item>
+            <title>0.2.18</title>
+            <pubDate>Tue, 11 Aug 2026 21:45:23 -0400</pubDate>
+            <sparkle:version>2018</sparkle:version>
+            <sparkle:shortVersionString>0.2.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow-0.2.18.zip" length="4799777" type="application/octet-stream" sparkle:edSignature="sCbwg5QwTNBDi9oApiXxTkq5ceZuCn/38tI9fLJADzz9baeqWhO77Z1NJV0ZY8RzPEZxjoyK6zpqRBOUbXZYCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2018-2017.delta" sparkle:deltaFrom="2017" length="387790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eD+rhnGABlNTnGLamfw/zW9/XbhR8v+0fWtZV9tIeC7/tVQaryinMwc9EWspnChI2PIqtgkJKjqslOcHjrGiCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2018-2016.delta" sparkle:deltaFrom="2016" length="393286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lMQXwUMmqDM28mL5M2x3w2Mi0qknORlPv5M/CwWtsNKQ2V+gHtTK1VtPj1+uuiRfsS+piysYYDGRL7ZjNd0NDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2018-2015.delta" sparkle:deltaFrom="2015" length="407614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UsPU93VAtUi/8wG+UqK3d6duwaTOyFAMfRC684H8pYRTgAn4VO7BSpOVFNO1ImkRb1foV5BTeqAX2cv1caz9Dw=="/>
+                <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2018-2014.delta" sparkle:deltaFrom="2014" length="417202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sv4p0PscYZsnRKdfFCXClxbMwDpMRnkgQnWqbrjUjfHTJ4K5BJRh+nqLxC9k5XVek2FSrYRixkUJOR4z08lIAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2018-2013.delta" sparkle:deltaFrom="2013" length="497566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kDpX2F9jSKWOMeltactYbsCiKfDT3D7REbO+6JHYn83mzVzUrc4bGW/xrPG0PhXKIRNMuGjMCIj+9FhZt2uOBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.17</title>
             <pubDate>Tue, 11 Aug 2026 17:01:29 -0400</pubDate>
             <sparkle:version>2017</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2016-2013.delta" sparkle:deltaFrom="2013" length="411554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CDm5n9psP3isCLxi0lTYMJ3Y9FiDDlHa2c81AZHnJoHTg9fBUN50q8YOprGWl8eZMaYtEMH/gTxi9ibnJXwDDw=="/>
                 <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2016-2012.delta" sparkle:deltaFrom="2012" length="471534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fj4LlJsvvSC5vzrdvNSOLBQ5LYiHV0DJLew211D5E5CL5eq3nrR6S5TWfIG7pkCX03W91NvJNSCnV/p2SNVBBw=="/>
                 <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2016-2011.delta" sparkle:deltaFrom="2011" length="473282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tfjl5nIEIKcLnIARM+KbmvMH+P+Gi96i7LOeYkoIk5h9Z36aDsJP8Gslkt+HWNcEeEvEHY9RMgiZlvk/16o9Cg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.15</title>
-            <pubDate>Tue, 11 Aug 2026 15:29:46 -0400</pubDate>
-            <sparkle:version>2015</sparkle:version>
-            <sparkle:shortVersionString>0.2.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow-0.2.15.zip" length="4782303" type="application/octet-stream" sparkle:edSignature="CtX2f+2HXKBUZV3XuCFotpymG2QlvQPi6XxRNM2KD8lR4HchYX3QyR6FjlOWuSmtvofwahR163fWbvJhNGxmBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2015-2014.delta" sparkle:deltaFrom="2014" length="296926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mST2bVSCKHBd/zZibEM75l9rY7pvP1Y3c5vtZtduLHhSdR293NzdOrng7I+mPwli5375CED989Ip6BJI95dUCA=="/>
-                <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2015-2013.delta" sparkle:deltaFrom="2013" length="414698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iPxdBb1bDGtRRb4uxDJuiSyI88xtOaVPS3CtyOJvwWZRo8OIIsOSUachhTQNsIc2TMYsILB0hg5gaYfviqxzCQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2015-2012.delta" sparkle:deltaFrom="2012" length="456038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2GINpvmwJga5XNdljOi3dF8ciXLrx6rPrQt5JE1Naktodw/1nDMGTU/Tea6oAcBE4hs+he7/NvXb6R+Kj94rAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2015-2011.delta" sparkle:deltaFrom="2011" length="454646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MAmY1DeavhxPC4L64oINW6PTjkKR2mMMlv/UIg8B2gcaNbjPMAp6A0lN7R60d9vb7jVZJestFMdxumyY/7EPAg=="/>
-                <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads-beta/AgencyFlow%20Beta2015-2010.delta" sparkle:deltaFrom="2010" length="573882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1MwE97Opujr+XKDw6TUpzsWdz7opiXtsseQZL+YaQJq+eEMrPHKHnjLbRYRPmpi5vO7PadjELj7wNP9xrXTwCg=="/>
             </sparkle:deltas>
         </item>
     </channel>
