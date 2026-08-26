@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "lane": "beta",
+  "authorizedSparklePublicKey": "QEG8RzjrlUmwXtxjO2CD5j7N0f6ztXQ6pHa3553NiKc=",
+  "archives": [
+    {"path":"archives/AgencyFlow-0.2.7.zip","sha256":"c081408d7470031edc68c629f5c9dcfade532101fb6c0c3514c279e2b007a292"},
+    {"path":"archives/AgencyFlow-0.2.8.zip","sha256":"bb81e5fc34924a6f8520a74c8b0dba4bbe25be11999e9e5d64196cb3e891283e"},
+    {"path":"archives/AgencyFlow-0.2.9.zip","sha256":"7a534ebe718d077bb2e5b328b0658f42b44dd99bf1e39cc26e0589427420ace5"},
+    {"path":"archives/AgencyFlow-0.2.10.zip","sha256":"b14103559e312a8d99302ffe5d35d4e504b42e5b48dd406d92f917c72069a781"},
+    {"path":"archives/AgencyFlow-0.2.11.zip","sha256":"15aed63aac1a9753bf617c2ba04704b1950f3752c8d1bc046343dcb5c6f0d57d"},
+    {"path":"archives/AgencyFlow-0.2.12.zip","sha256":"5bbeed2eaa9f946611af851e3bed8cc5d0d5869722059d9993d707bdca851ff9"},
+    {"path":"archives/AgencyFlow-0.2.13.zip","sha256":"a92cc6de5937eaa9f3935a511964c508a0e9b4b0d4eb015ecd29c5e213a69899"},
+    {"path":"archives/AgencyFlow-0.2.14.zip","sha256":"cb577253552716d6df081baa7e570c6cf9a70aa6fcbe9d53cd5a2b4696736de3"},
+    {"path":"archives/AgencyFlow-0.2.15.zip","sha256":"08fbe4ad30cb4c9c98861fa58d32f8415c5a6b0d1a2b2e39a31d0900273c5c3d"},
+    {"path":"archives/AgencyFlow-0.2.16.zip","sha256":"60342f3be4f454863db147c3ebe555d03702a2bb57ed7aea54ecffef3b59c4c1"},
+    {"path":"archives/AgencyFlow-0.2.17.zip","sha256":"108b2c042e31016d95964686e53f2722c5acbc2b8a8d8202ef0630d45e83873f"},
+    {"path":"archives/AgencyFlow-0.2.18.zip","sha256":"a3f2a448bab73002269da4d1b25a1f1a9e2496f2a1061d8bd36ab20be95a905e"},
+    {"path":"archives/AgencyFlow-0.2.19.zip","sha256":"6ea78684ac5accb5ef7ee55a51542b0acafe2d51cde10b598a3de3c57959c866"},
+    {"path":"archives/AgencyFlow-0.2.20.zip","sha256":"aa459470bbd25ba22b36b1881d953040d6870529f22520a7be70527932958b70"},
+    {"path":"archives/AgencyFlow-0.2.21.zip","sha256":"b387f810fe36fc2a6c9b66bce07e8302eff82cee5515f8a3685edd54bdbe3957"},
+    {"path":"archives/AgencyFlow-0.2.22.zip","sha256":"75ed666288f3d88dba334316c3d1fa428075021eb5aefd40d8ab641bafbb0832"},
+    {"path":"archives/AgencyFlow-0.2.23.zip","sha256":"c4867bfecbc38c3fc9c867b4a9260f86281d039339388a0cdc893ff55e392fd8"},
+    {"path":"archives/AgencyFlow-0.2.24.zip","sha256":"e18ae4a46469165953fd13e4520bc3d6d9ce74daf80f801b2ba9e2549c92a843"},
+    {"path":"archives/AgencyFlow-0.2.25.zip","sha256":"91458d7307a620c59a934d73c8039413bb44846dca6ae77e7db7682f04413b99"}
+  ]
+}

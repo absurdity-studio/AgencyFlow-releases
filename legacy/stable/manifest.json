@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "lane": "stable",
+  "authorizedSparklePublicKey": "QEG8RzjrlUmwXtxjO2CD5j7N0f6ztXQ6pHa3553NiKc=",
+  "archives": [
+    {"path":"archives/AgencyFlow-0.2.2.zip","sha256":"cee74adb8d83389604a05f4a3bef6f10a93ee8b51fb0a67a5c59cef1a06c06d2"},
+    {"path":"archives/AgencyFlow-0.2.3.zip","sha256":"4c9018b67f693cef7a44aadedbbe2170a7b70ffd5dbf1a488f3fc71630ff70fa"},
+    {"path":"archives/AgencyFlow-0.2.4.zip","sha256":"67981f36ef860286e03157bcd662849dba952cb5351c8846d04daa3240a46fbd"},
+    {"path":"archives/AgencyFlow-0.2.5.zip","sha256":"5c6b68307347781e499e769aefe8f6ed8bbb2c187e5e54200aab43794512ffd7"},
+    {"path":"archives/AgencyFlow-0.2.6.zip","sha256":"03350f7e14950827754afe79fafd73f22f67bbcd3122ce3becbcf0fbdab1ddea"},
+    {"path":"archives/AgencyFlow-0.2.7.zip","sha256":"f9617f35bef6bba55115a1a3af7182ab88b1c4adb553763ac06755b6a5d9f49c"},
+    {"path":"archives/AgencyFlow-0.2.8.zip","sha256":"68aa003776404accd3105d84bd84c4f64c2abbef691c4734b77c6b9a54493a85"},
+    {"path":"archives/AgencyFlow-0.2.9.zip","sha256":"e6f1f40759f6b10e3c047298b0d836265221e75dd30729fdda6e05661e7f0cac"},
+    {"path":"archives/AgencyFlow-0.2.10.zip","sha256":"aa4bf33a3c17a5e9457a00d73c8959d56e473a4e121944a77ed63476a1c76279"},
+    {"path":"archives/AgencyFlow-0.2.11.zip","sha256":"6d0fad31684d9462542c5adb7ca35c1ec53ffd8aafb87d94c3f253fe28bf9114"},
+    {"path":"archives/AgencyFlow-0.2.12.zip","sha256":"a993e8d10f2c97f1316c48207ad834dd9cc73f4b33ef726d522563de668f931d"},
+    {"path":"archives/AgencyFlow-0.2.13.zip","sha256":"fa9ab7e25b65dec93e39efb3db1178ffe1319f773834bc4be9ed7a6ec6f78abe"},
+    {"path":"archives/AgencyFlow-0.2.14.zip","sha256":"c315d0067f51c0951ceefbecf600a9c342a4fb88454c24f5c0e783f8affc4a95"},
+    {"path":"archives/AgencyFlow-0.2.15.zip","sha256":"fc576fc01a1569ca687fbf0abb93995e0e8e6317d02eaffe18d22595c614fa88"},
+    {"path":"archives/AgencyFlow-0.2.16.zip","sha256":"3190a9e93c8f5f27a9cfcd13bcbc95e83dee4cbc69e9f5abd9f701da82d1bafc"},
+    {"path":"archives/AgencyFlow-0.2.17.zip","sha256":"7055a3e0d1ce00bd00707db45b72d94374be3ed9326d5c226e761cae0609bb6a"},
+    {"path":"archives/AgencyFlow-0.2.18.zip","sha256":"638b96a6a91f42d55c2d6f23be66bd6e1b081ff1deb52fc487e51d34567ca57c"},
+    {"path":"archives/AgencyFlow-0.2.20.zip","sha256":"3c1ce787be02e79df47f2d21c9f101e0cff56468f3856e33da237e9dd462295b"},
+    {"path":"archives/AgencyFlow-0.2.21.zip","sha256":"74bb97df00d0c62204a4663b62b5eb83147f5ab62f65c7b0d3a38adb11f025ed"},
+    {"path":"archives/AgencyFlow-0.2.22.zip","sha256":"66284081dbab33557d5381361998b6dd69ef02f9366dc824c3ee8e13c2610b3e"},
+    {"path":"archives/AgencyFlow-0.2.24.zip","sha256":"d74aca287bce053d86988d1a9a527a664e9eecec8261f0aa95ed821b44f97fa2"},
+    {"path":"archives/AgencyFlow-0.2.25.zip","sha256":"ba5592a8e1fa714deeb3a6a4dad060760f1c45896443fbd4056b8f20f6aabf95"}
+  ]
+}
