@@ -1,0 +1,17 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: AgencyFlow-stable-0.3.0
+DocumentNamespace: https://absurdity.studio/spdx/agencyflow/stable/0.3.0/ee35fa993753b28ea47e49f195cc120eab45b68d
+Creator: Tool: AgencyFlow-clean-room-release-SPDX-scaffold
+Created: 2026-08-26T20:22:37-04:00
+
+PackageName: AgencyFlow
+SPDXID: SPDXRef-Package-AgencyFlow
+PackageVersion: 0.3.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageChecksum: SHA256: f4cfa0a64a73795399a52140dc1ab56f0610b5cc779d724b0b3c30207a3767e2
+ExternalRef: OTHER PackageResolvedSHA256 d35338ef33e8d86a3a1ef6611cd16e7dc5292d4facb90f5f707d39f3e83d6213
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-Package-AgencyFlow

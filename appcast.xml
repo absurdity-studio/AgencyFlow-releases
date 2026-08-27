@@ -3,6 +3,15 @@
     <channel>
         <title>AgencyFlow</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Wed, 26 Aug 2026 20:36:38 -0400</pubDate>
+            <sparkle:version>3000</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/absurdity-studio/AgencyFlow-releases/main/downloads/AgencyFlow-0.3.0.zip" length="4747580" type="application/octet-stream" sparkle:edSignature="wthbtgsUmJco2iaWJ3YF2AFDzp+qS0yMIuJA0enmnPG+NOm6NfPzWCysEYU6iOZD8pajM5iIfFDpJJBt1q6iBg=="/>
+        </item>
+        <item>
             <title>0.2.25</title>
             <pubDate>Sat, 15 Aug 2026 10:13:54 -0400</pubDate>
             <sparkle:version>2025</sparkle:version>
