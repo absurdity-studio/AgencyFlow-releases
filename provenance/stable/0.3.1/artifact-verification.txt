@@ -1,0 +1,12 @@
+Processing: /tmp/agencyflow-artifact-check.QLEscG/extracted/AgencyFlow.app
+The validate action worked!
+verified_archive=/private/tmp/agencyflow-release.YiyRXB/stage/AgencyFlow-0.3.1.zip
+sha256=fd56a40fb847c056f8ea4f7b14cab7a8b1014a6e81bb5f55db8f664306f05ef3
+bundle_id=studio.absurdity.agencyflow
+version=0.3.1
+build_number=3001
+source_commit=4015260ecc36567fe8db0fbbcd19be9081297ea6
+source_tree=e6f9ce73da719c37ad0270e6ddc65a0905a3daec
+package_lock_sha256=d35338ef33e8d86a3a1ef6611cd16e7dc5292d4facb90f5f707d39f3e83d6213
+team_id=XBV6J66F62
+designated_requirement=identifier "studio.absurdity.agencyflow" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = XBV6J66F62
